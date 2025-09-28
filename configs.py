@@ -4,7 +4,7 @@ class Config(object):
   API_ID = int(os.environ.get("API_ID", "28408609"))
   API_HASH = os.environ.get("API_HASH", "d6ddeafb0c189d91b8197ad49103e806")
   BOT_TOKEN = os.environ.get("BOT_TOKEN", "8452718305:AAGfNMdJOm-1IqDr007ctJMNZZ-sS_cStH0")
-  BOT_USERNAME = os.environ.get("BOT_USERNAME", "http://t.me/Sample_tests_bot")
+  BOT_USERNAME = os.environ.get("BOT_USERNAME", "Sample_tests_bot")
   DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "1002563651230"))
   SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "MoneyKamalo.com")
   SHORTLINK_API = os.environ.get('SHORTLINK_API', "0eefb93e1e3ce9470a7033115ceb1bad13a9d674")
@@ -23,7 +23,7 @@ Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edi
 
 ╭────[ 🔅FɪʟᴇSᴛᴏʀᴇBᴏᴛ🔅]────⍟
 │
-├🔸 My Name: [FileStore Bot](https://t.me/{BOT_USERNAME})
+├🔸 My Name: [FileStore Bot](https://t.me/{Sample_tests_bot})
 │
 ├🔸 Language: [Python 3](https://www.python.org)
 │
@@ -32,11 +32,11 @@ Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edi
 ╰──────[ 😎 ]───────────⍟
 """
   ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: [VJ](https://telegram.me/KingVj01)
+🧑🏻‍💻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: [Govar](https://telegram.me/ind_gamer_1)
  
  I am Super noob Please Support My Hard Work.
 
-[Donate Me](https://t.me/KingVj01)
+[Donate Me](https:/ind_gamer_1)
 """
   HOME_TEXT = """
 Hello, [{}](tg://user?id={})\n\nThis is a Permanent **FileStore Bot**.
